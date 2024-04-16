@@ -1,10 +1,4 @@
 # Lab_V_TDD
-Repositório dedicado aos exercícios da Matéria de LAB V - TDD. Prof. Lucas Nadalete
-Formato: URL do repositório Git com a implementação do projeto
-
-Linguagem de Programação: Java
-
-JUnit e TDD
 
 <h3>Exercício 1 - Triângulo - Especifique um conjunto de casos de teste para testar o programa a seguir:</h3>
 
