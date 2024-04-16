@@ -10,5 +10,6 @@ public class Funcionario_Teste {
         Funcionario desenvolvedor = new Funcionario("Tobias", "tobias.sousa@fatec.com", 4000.00, Cargo.DESENVOLVEDOR);
         assertEquals(3200.00, desenvolvedor.calcularSalarioLiquido(), 0.001);
     }
-}
 
+
+}
